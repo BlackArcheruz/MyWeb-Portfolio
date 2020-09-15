@@ -80,7 +80,7 @@ nav ul li.btn.hide i:before{
     width: 50%;
     float: right;
 }
-#About{
+#showcase{
     margin: 90px 0;
 width: 50%;
     text-decoration: none;
@@ -278,7 +278,7 @@ textarea{
     nav ul li.items:hover:after{
       opacity: 0;
     }
-    #About{
+    #showcase{
         width: 100%;
         text-align: center;
         display: block;
@@ -362,7 +362,7 @@ textarea{
     nav ul li.items:hover:after{
       opacity: 0;
     }
-    #About{
+    #showcase{
         width: 100%;
         text-align: center;
         display: block;
